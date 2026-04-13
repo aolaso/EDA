@@ -86,8 +86,6 @@ src/
 docs/
   Memoria_Proyecto_EDA.pdf
   presentacion_final.pptx
-  Guia_Rapida_EDA.pdf
-  Guia_Completa_EDA.pdf
 README.md
 ```
 
